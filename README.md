@@ -6,34 +6,7 @@ by readind a simple .txt file filled with VALID only tetraminos.
 VALID tetro should contain:
 4 cages, 12 dots, 4 '\n'. All of those should be completed
 in accord with valid TETRIS game tetro.
-EXAMPLE:
-....
-..##
-..##
-....
-
-.##.
-##.
-....
-....
-
-.##.
-..#.
-..#.
-....
-
-EXAMPLE OF INVALID:
-...
-....
-..##
-..##
-
-..##
-..#.
-....
-#...
-
-...#...#...#...#
+![alt text](https://raw.github.com/ksnow-be/fillit/master/pngs/valid.png)
 
 The maximum value of tetros is 26 , if you will try to execute more
 of that amount - error message will be showed.
